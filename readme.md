@@ -1,0 +1,3 @@
+mongoose:
+aggregations:
+ne,nin
